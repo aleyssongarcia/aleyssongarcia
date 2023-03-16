@@ -28,3 +28,11 @@
   <a href="https://www.linkedin.com/in/aleysson-garcia-844764242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aleyssongarcia&bg_color=000000&color=1eff00&line=00d5ff&point=07f20b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+<br><p align="centre"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{aleyssongarcia}/count.svg" /></p> 
+<br>
+</div>
