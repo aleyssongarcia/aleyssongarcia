@@ -8,18 +8,23 @@
  </a>
 </div>
 
-## Algumas das tecnologias que utilizo
+## Tecnologias
 
 <div align="">
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">         
- <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
- <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="100">
  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100">
-</div>
 
  ##
+ ## Ferramentas
+ 
+ <img  alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+ <img  alt="vs code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the badge&logo=visual%20studio%20code&logoColor=white"/>
+ <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+ <img  alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/><br/><br/>
+ <img  alt="microsoft office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  ##
  
 <div> 
   <a href="https://www.youtube.com/channel/UChXhTPAEzhSIYFLbBjHJ-vg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
