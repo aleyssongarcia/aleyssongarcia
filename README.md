@@ -15,6 +15,8 @@
  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="100">
  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100">
+ <img  align="center" alt="sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img  align="center" alt="sql" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <br/><br/>
 
  ##
  ## Ferramentas
